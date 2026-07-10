@@ -1,0 +1,95 @@
+new entry TT_FuDao_Scroll_FlyingSword
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_FlyingSword,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_DispelMisfortune
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_DispelMisfortune,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_MysticIce
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_MysticIce,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_SoulSeal
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_SoulSeal,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_TalismanWard
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_TalismanWard,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_ThunderSummons
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_ThunderSummons,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_SamadhiFire
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_SamadhiFire,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_SwordQiSweep
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_SwordQiSweep,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_VajraGuard
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_VajraGuard,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_FlameLotus
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_FlameLotus,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_SwordFlight
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_SwordFlight,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_HeavenFire
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_HeavenFire,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_FrostLock
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_FrostLock,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_MyriadSwordsLaunch
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_MyriadSwordsLaunch,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_PurpleThunder
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_PurpleThunder,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_EndlessVitality
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_EndlessVitality,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_TianGangFormation
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_TianGangFormation,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_JiuTianXuanLei
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_JiuTianXuanLei,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_QianKunShift
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_QianKunShift,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_TaiYiThunder
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_TaiYiThunder,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_WanJianGuiZong
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_WanJianGuiZong,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_HunYuanYiQi
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_HunYuanYiQi,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_ZhuXianSwordFormation
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_ZhuXianSwordFormation,1,1,0,0,0"
+
+new entry TT_FuDao_Scroll_WanFaGuiYi
+type TreasureTable
+data SubTable1 "1,1,Scroll_Fu_Dao_WanFaGuiYi,1,1,0,0,0"

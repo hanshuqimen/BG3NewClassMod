@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="hf1a2000000000001" version="1">Rune Sword Taoist</content>
+  <content contentuid="hf1a2000000000002" version="1">The Rune Sword Taoist blends sword cultivation and rune cultivation into a Chinese-style immortal path. With Strength and Intelligence as primary abilities and Intelligence as the casting attribute, they wield the sword by rune and nourish the rune by sword. At level 1 they choose between the Sword Path (melee combat) or the Rune Path (spellcasting).</content>
+  <content contentuid="hf1a2000000000003" version="1">A Chinese-style cultivator blending sword and rune; primary abilities Strength and Intelligence.</content>
+  <content contentuid="hf1a2000000000004" version="1">Sword Path</content>
+  <content contentuid="hf1a2000000000005" version="1">The Sword Path masters melee combat, channeling elemental energy into the blade via rune-sword stances, gaining a Sword-Intent Guard AC bonus while unarmored, and increasing attacks per round as they advance in level.</content>
+  <content contentuid="hf1a2000000000006" version="1">Rune Path</content>
+  <content contentuid="hf1a2000000000007" version="1">The Rune Path masters spellcraft, with a broader spell pool and a spell-slot capacity approaching the Wizard, and can use the Seal Rune art to crystallize a known spell into a scroll.</content>
+  <content contentuid="hf1a2000000000008" version="1">Flame Stance</content>
+  <content contentuid="hf1a2000000000009" version="1">Imbue your blade with flame, dealing an additional 1d6 Fire damage on weapon attacks. Only one stance may be active at a time.</content>
+  <content contentuid="hf1a200000000000a" version="1">Thunder Stance</content>
+  <content contentuid="hf1a200000000000b" version="1">Imbue your blade with thunder, dealing an additional 1d6 Thunder damage on weapon attacks. Only one stance may be active at a time.</content>
+  <content contentuid="hf1a200000000000c" version="1">Frost Stance</content>
+  <content contentuid="hf1a200000000000d" version="1">Imbue your blade with frost, dealing an additional 1d6 Cold damage on weapon attacks. Only one stance may be active at a time.</content>
+  <content contentuid="hf1a200000000000e" version="1">Arcane Stance</content>
+  <content contentuid="hf1a200000000000f" version="1">Imbue your blade with arcane force, dealing an additional 1d6 Force damage on weapon attacks. Only one stance may be active at a time.</content>
+  <content contentuid="hf1a2000000000010" version="1">Flying Sword</content>
+  <content contentuid="hf1a2000000000011" version="1">Hurl a telekinetic blade at a target, dealing 1d10 Force damage.</content>
+  <content contentuid="hf1a2000000000012" version="1">Dispel Misfortune</content>
+  <content contentuid="hf1a2000000000013" version="1">Trace a warding rune that ends one disease or condition afflicting a creature.</content>
+  <content contentuid="hf1a2000000000014" version="1">Mystic Ice</content>
+  <content contentuid="hf1a2000000000015" version="1">Conjure a shard of mystic ice that bursts on impact, dealing Cold damage and slowing nearby foes.</content>
+  <content contentuid="hf1a2000000000016" version="1">Soul Seal</content>
+  <content contentuid="hf1a2000000000017" version="1">Inscribe a soul-binding rune that paralyzes a humanoid target.</content>
+  <content contentuid="hf1a2000000000018" version="1">Talisman Ward</content>
+  <content contentuid="hf1a2000000000019" version="1">Project a talisman array that grants the target a bonus to Armor Class.</content>
+  <content contentuid="hf1a200000000001a" version="1">Thunder Summons</content>
+  <content contentuid="hf1a200000000001b" version="1">Call down a peal of thunder that strikes a target for Lightning damage.</content>
+  <content contentuid="hf1a200000000001c" version="1">Samadhi Fire</content>
+  <content contentuid="hf1a200000000001d" version="1">Emit rays of samadhi fire that scorch one or more targets for Fire damage.</content>
+  <content contentuid="hf1a200000000001e" version="1">Seven Star Array</content>
+  <content contentuid="hf1a200000000001f" version="1">Inscribe the Big Dipper array, radiating starlight that deals Radiant damage to enemies in the area.</content>
+  <content contentuid="hf1a2000000000020" version="1">Nine Heaven Thunder</content>
+  <content contentuid="hf1a2000000000021" version="1">Channel nine-fold celestial thunder that arcs between targets, dealing Lightning damage.</content>
+  <content contentuid="hf1a2000000000022" version="1">Heaven Earth Shift</content>
+  <content contentuid="hf1a2000000000023" version="1">Bend the axes of heaven and earth to teleport yourself and nearby allies to a chosen location.</content>
+  <content contentuid="hf1a2000000000024" version="1">Myriad Swords</content>
+  <content contentuid="hf1a2000000000025" version="1">Summon a storm of flying blades that strike repeatedly, dealing Force damage.</content>
+  <content contentuid="hf1a2000000000026" version="1">Taiyi Divine Thunder</content>
+  <content contentuid="hf1a2000000000027" version="1">Unleash a cone of Taiyi divine thunder that deals Lightning damage and may stun those caught within.</content>
+  <content contentuid="hf1a2000000000028" version="1">Primal Unity Qi</content>
+  <content contentuid="hf1a2000000000029" version="1">Circulate primal qi to heal nearby allies and grant them temporary vitality.</content>
+  <content contentuid="hf1a200000000002a" version="1">Immortal Slay Array</content>
+  <content contentuid="hf1a200000000002b" version="1">Deploy the ultimate slaying array, raining blades and divine force for massive Force damage across a wide area.</content>
+  <content contentuid="hf1a200000000002c" version="1">Heavenly Reincarnation</content>
+  <content contentuid="hf1a200000000002d" version="1">Bend the wheel of reincarnation to restore a fallen ally to full vitality.</content>
+  <content contentuid="hf1a200000000002e" version="1">All Dharmas Return</content>
+  <content contentuid="hf1a200000000002f" version="1">Compress all dharmas into a single annihilating beam that deals immense Force damage to one target.</content>
+  <content contentuid="hf1a2000000000030" version="1">Seal Rune</content>
+  <content contentuid="hf1a2000000000031" version="1">Crystallize a known spell into a scroll. Choose a spell from the Seal Rune submenu. Each use consumes one Seal Rune charge.</content>
+  <content contentuid="hf1a2000000000032" version="1">Seal Rune: Flying Sword</content>
+  <content contentuid="hf1a2000000000033" version="1">Crystallize Flying Sword into a scroll. Requires knowing Flying Sword.</content>
+  <content contentuid="hf1a2000000000034" version="1">Seal Rune: Dispel Misfortune</content>
+  <content contentuid="hf1a2000000000035" version="1">Crystallize Dispel Misfortune into a scroll. Requires knowing Dispel Misfortune.</content>
+  <content contentuid="hf1a2000000000036" version="1">Seal Rune: Mystic Ice</content>
+  <content contentuid="hf1a2000000000037" version="1">Crystallize Mystic Ice into a scroll. Requires knowing Mystic Ice.</content>
+  <content contentuid="hf1a2000000000038" version="1">Seal Rune: Soul Seal</content>
+  <content contentuid="hf1a2000000000039" version="1">Crystallize Soul Seal into a scroll. Requires knowing Soul Seal.</content>
+  <content contentuid="hf1a200000000003a" version="1">Seal Rune: Talisman Ward</content>
+  <content contentuid="hf1a200000000003b" version="1">Crystallize Talisman Ward into a scroll. Requires knowing Talisman Ward.</content>
+  <content contentuid="hf1a200000000003c" version="1">Seal Rune: Thunder Summons</content>
+  <content contentuid="hf1a200000000003d" version="1">Crystallize Thunder Summons into a scroll. Requires knowing Thunder Summons.</content>
+  <content contentuid="hf1a200000000003e" version="1">Seal Rune: Samadhi Fire</content>
+  <content contentuid="hf1a200000000003f" version="1">Crystallize Samadhi Fire into a scroll. Requires knowing Samadhi Fire.</content>
+  <content contentuid="hf1a2000000000040" version="1">Seal Rune: Seven Star Array</content>
+  <content contentuid="hf1a2000000000041" version="1">Crystallize Seven Star Array into a scroll. Requires knowing Seven Star Array.</content>
+  <content contentuid="hf1a2000000000042" version="1">Seal Rune: Nine Heaven Thunder</content>
+  <content contentuid="hf1a2000000000043" version="1">Crystallize Nine Heaven Thunder into a scroll. Requires knowing Nine Heaven Thunder.</content>
+  <content contentuid="hf1a2000000000044" version="1">Seal Rune: Heaven Earth Shift</content>
+  <content contentuid="hf1a2000000000045" version="1">Crystallize Heaven Earth Shift into a scroll. Requires knowing Heaven Earth Shift.</content>
+  <content contentuid="hf1a2000000000046" version="1">Seal Rune: Myriad Swords</content>
+  <content contentuid="hf1a2000000000047" version="1">Crystallize Myriad Swords into a scroll. Requires knowing Myriad Swords.</content>
+  <content contentuid="hf1a2000000000048" version="1">Seal Rune: Taiyi Divine Thunder</content>
+  <content contentuid="hf1a2000000000049" version="1">Crystallize Taiyi Divine Thunder into a scroll. Requires knowing Taiyi Divine Thunder.</content>
+  <content contentuid="hf1a200000000004a" version="1">Seal Rune: Primal Unity Qi</content>
+  <content contentuid="hf1a200000000004b" version="1">Crystallize Primal Unity Qi into a scroll. Requires knowing Primal Unity Qi.</content>
+  <content contentuid="hf1a200000000004c" version="1">Seal Rune: Immortal Slay Array</content>
+  <content contentuid="hf1a200000000004d" version="1">Crystallize Immortal Slay Array into a scroll. Requires knowing Immortal Slay Array.</content>
+  <content contentuid="hf1a200000000004e" version="1">Seal Rune: Heavenly Reincarnation</content>
+  <content contentuid="hf1a200000000004f" version="1">Crystallize Heavenly Reincarnation into a scroll. Requires knowing Heavenly Reincarnation.</content>
+  <content contentuid="hf1a2000000000050" version="1">Seal Rune: All Dharmas Return</content>
+  <content contentuid="hf1a2000000000051" version="1">Crystallize All Dharmas Return into a scroll. Requires knowing All Dharmas Return.</content>
+  <content contentuid="hf1a2000000000052" version="1">Sword Intent Guard I</content>
+  <content contentuid="hf1a2000000000053" version="1">While not wearing armor and not wielding a shield, your AC increases by 1.</content>
+  <content contentuid="hf1a2000000000054" version="1">Sword Intent Guard II</content>
+  <content contentuid="hf1a2000000000055" version="1">While not wearing armor and not wielding a shield, your AC increases by 2.</content>
+  <content contentuid="hf1a2000000000056" version="1">Sword Intent Guard III</content>
+  <content contentuid="hf1a2000000000057" version="1">While not wearing armor and not wielding a shield, your AC increases by 3.</content>
+  <content contentuid="hf1a2000000000058" version="1">Sword Intent Guard IV</content>
+  <content contentuid="hf1a2000000000059" version="1">While not wearing armor and not wielding a shield, your AC increases by 4.</content>
+  <content contentuid="hf1a200000000005a" version="1">Sword Intent Guard V</content>
+  <content contentuid="hf1a200000000005b" version="1">While not wearing armor and not wielding a shield, your AC increases by 5.</content>
+  <content contentuid="hf1a200000000005c" version="1">Sword Intent Guard VI</content>
+  <content contentuid="hf1a200000000005d" version="1">While not wearing armor and not wielding a shield, your AC increases by 6.</content>
+  <content contentuid="hf1a200000000005e" version="1">Extra Attack</content>
+  <content contentuid="hf1a200000000005f" version="1">You can attack twice per turn when taking the Attack action.</content>
+  <content contentuid="hf1a2000000000060" version="1">Extra Attack (II)</content>
+  <content contentuid="hf1a2000000000061" version="1">You can attack three times per turn when taking the Attack action.</content>
+  <content contentuid="hf1a2000000000062" version="1">Extra Attack (III)</content>
+  <content contentuid="hf1a2000000000063" version="1">You can attack four times per turn when taking the Attack action.</content>
+  <content contentuid="hf1a2000000000064" version="1">Sword God Descent</content>
+  <content contentuid="hf1a2000000000065" version="1">The sword god descends: your stance enchantment damage die escalates to 3d6, and you gain a fourth attack per turn.</content>
+  <content contentuid="hf1a2000000000098" version="1">Stance Damage I</content>
+  <content contentuid="hf1a2000000000099" version="1">While a Sword Path stance is active, your weapon attacks deal an additional 1d6 of the matching element.</content>
+  <content contentuid="hf1a200000000009a" version="1">Stance Damage II</content>
+  <content contentuid="hf1a200000000009b" version="1">While a Sword Path stance is active, your weapon attacks deal an additional 1d8 of the matching element.</content>
+  <content contentuid="hf1a200000000009c" version="1">Stance Damage III</content>
+  <content contentuid="hf1a200000000009d" version="1">While a Sword Path stance is active, your weapon attacks deal an additional 1d10 of the matching element.</content>
+  <content contentuid="hf1a200000000009e" version="1">Stance Damage IV</content>
+  <content contentuid="hf1a200000000009f" version="1">While a Sword Path stance is active, your weapon attacks deal an additional 2d6 of the matching element.</content>
+  <content contentuid="hf1a20000000000a0" version="1">Stance Damage V</content>
+  <content contentuid="hf1a20000000000a1" version="1">While a Sword Path stance is active, your weapon attacks deal an additional 3d6 of the matching element.</content>
+  <content contentuid="hf1a2000000000066" version="1">Seal Rune</content>
+  <content contentuid="hf1a2000000000067" version="1">You can crystallize a known spell into a scroll. Select a spell from the Seal Rune submenu.</content>
+  <content contentuid="hf1a2000000000068" version="1">Seal Rune Charges (1)</content>
+  <content contentuid="hf1a2000000000069" version="1">Grants 1 Seal Rune charge, regained after a Long Rest.</content>
+  <content contentuid="hf1a200000000006a" version="1">Seal Rune Charges (2)</content>
+  <content contentuid="hf1a200000000006b" version="1">Grants 2 Seal Rune charges, regained after a Long Rest.</content>
+  <content contentuid="hf1a200000000006c" version="1">Seal Rune Charges (4)</content>
+  <content contentuid="hf1a200000000006d" version="1">Grants 4 Seal Rune charges, regained after a Long Rest.</content>
+  <content contentuid="hf1a200000000006e" version="1">Dao Follows Nature</content>
+  <content contentuid="hf1a200000000006f" version="1">Once per Long Rest, you may cast a homebrew spell of 8th level or below without expending a spell slot.</content>
+  <content contentuid="hf1a2000000000070" version="1">Scroll of Flying Sword</content>
+  <content contentuid="hf1a2000000000071" version="1">A scroll inscribed with the Flying Sword rune. Reading it casts Flying Sword.</content>
+  <content contentuid="hf1a2000000000072" version="1">Scroll of Dispel Misfortune</content>
+  <content contentuid="hf1a2000000000073" version="1">A scroll inscribed with the Dispel Misfortune rune. Reading it casts Dispel Misfortune.</content>
+  <content contentuid="hf1a2000000000074" version="1">Scroll of Mystic Ice</content>
+  <content contentuid="hf1a2000000000075" version="1">A scroll inscribed with the Mystic Ice rune. Reading it casts Mystic Ice.</content>
+  <content contentuid="hf1a2000000000076" version="1">Scroll of Soul Seal</content>
+  <content contentuid="hf1a2000000000077" version="1">A scroll inscribed with the Soul Seal rune. Reading it casts Soul Seal.</content>
+  <content contentuid="hf1a2000000000078" version="1">Scroll of Talisman Ward</content>
+  <content contentuid="hf1a2000000000079" version="1">A scroll inscribed with the Talisman Ward rune. Reading it casts Talisman Ward.</content>
+  <content contentuid="hf1a200000000007a" version="1">Scroll of Thunder Summons</content>
+  <content contentuid="hf1a200000000007b" version="1">A scroll inscribed with the Thunder Summons rune. Reading it casts Thunder Summons.</content>
+  <content contentuid="hf1a200000000007c" version="1">Scroll of Samadhi Fire</content>
+  <content contentuid="hf1a200000000007d" version="1">A scroll inscribed with the Samadhi Fire rune. Reading it casts Samadhi Fire.</content>
+  <content contentuid="hf1a200000000007e" version="1">Scroll of Seven Star Array</content>
+  <content contentuid="hf1a200000000007f" version="1">A scroll inscribed with the Seven Star Array rune. Reading it casts Seven Star Array.</content>
+  <content contentuid="hf1a2000000000080" version="1">Scroll of Nine Heaven Thunder</content>
+  <content contentuid="hf1a2000000000081" version="1">A scroll inscribed with the Nine Heaven Thunder rune. Reading it casts Nine Heaven Thunder.</content>
+  <content contentuid="hf1a2000000000082" version="1">Scroll of Heaven Earth Shift</content>
+  <content contentuid="hf1a2000000000083" version="1">A scroll inscribed with the Heaven Earth Shift rune. Reading it casts Heaven Earth Shift.</content>
+  <content contentuid="hf1a2000000000084" version="1">Scroll of Myriad Swords</content>
+  <content contentuid="hf1a2000000000085" version="1">A scroll inscribed with the Myriad Swords rune. Reading it casts Myriad Swords.</content>
+  <content contentuid="hf1a2000000000086" version="1">Scroll of Taiyi Divine Thunder</content>
+  <content contentuid="hf1a2000000000087" version="1">A scroll inscribed with the Taiyi Divine Thunder rune. Reading it casts Taiyi Divine Thunder.</content>
+  <content contentuid="hf1a2000000000088" version="1">Scroll of Primal Unity Qi</content>
+  <content contentuid="hf1a2000000000089" version="1">A scroll inscribed with the Primal Unity Qi rune. Reading it casts Primal Unity Qi.</content>
+  <content contentuid="hf1a200000000008a" version="1">Scroll of Immortal Slay Array</content>
+  <content contentuid="hf1a200000000008b" version="1">A scroll inscribed with the Immortal Slay Array rune. Reading it casts Immortal Slay Array.</content>
+  <content contentuid="hf1a200000000008c" version="1">Scroll of Heavenly Reincarnation</content>
+  <content contentuid="hf1a200000000008d" version="1">A scroll inscribed with the Heavenly Reincarnation rune. Reading it casts Heavenly Reincarnation.</content>
+  <content contentuid="hf1a200000000008e" version="1">Scroll of All Dharmas Return</content>
+  <content contentuid="hf1a200000000008f" version="1">A scroll inscribed with the All Dharmas Return rune. Reading it casts All Dharmas Return.</content>
+  <content contentuid="hf1a2000000000090" version="1">Flame Stance</content>
+  <content contentuid="hf1a2000000000091" version="1">Imbued with flame. Weapon attacks deal an additional 1d6 Fire damage.</content>
+  <content contentuid="hf1a2000000000092" version="1">Thunder Stance</content>
+  <content contentuid="hf1a2000000000093" version="1">Imbued with thunder. Weapon attacks deal an additional 1d6 Thunder damage.</content>
+  <content contentuid="hf1a2000000000094" version="1">Frost Stance</content>
+  <content contentuid="hf1a2000000000095" version="1">Imbued with frost. Weapon attacks deal an additional 1d6 Cold damage.</content>
+  <content contentuid="hf1a2000000000096" version="1">Arcane Stance</content>
+  <content contentuid="hf1a2000000000097" version="1">Imbued with arcane force. Weapon attacks deal an additional 1d6 Force damage.</content>
+  <content contentuid="hf1a20000000000a2" version="1">Sword Qi Sweep</content>
+  <content contentuid="hf1a20000000000a3" version="1">Sweep a cone of sword qi, dealing 6d6 Force damage to foes within.</content>
+  <content contentuid="hf1a20000000000a4" version="1">Vajra Guard</content>
+  <content contentuid="hf1a20000000000a5" version="1">Forge a vajra-hardened body, granting damage resistance and temporary vitality to yourself or an ally.</content>
+  <content contentuid="hf1a20000000000a6" version="1">Flame Lotus</content>
+  <content contentuid="hf1a20000000000a7" version="1">Bloom a lotus of flame, dealing 7d6 Fire damage to enemies in the area.</content>
+  <content contentuid="hf1a20000000000a8" version="1">Sword Flight</content>
+  <content contentuid="hf1a20000000000a9" version="1">Ride your blade through the air to a point, dealing 5d8 Force damage to nearby foes on landing.</content>
+  <content contentuid="hf1a20000000000aa" version="1">Heaven Fire</content>
+  <content contentuid="hf1a20000000000ab" version="1">Rain heavenly fire down upon a wide area, dealing 8d6 Fire damage.</content>
+  <content contentuid="hf1a20000000000ac" version="1">Frost Lock</content>
+  <content contentuid="hf1a20000000000ad" version="1">Frost seals the land for three li, dealing 6d8 Cold damage and rooting enemies in the area.</content>
+  <content contentuid="hf1a20000000000ae" version="1">Myriad Swords Launch</content>
+  <content contentuid="hf1a20000000000af" version="1">Launch myriad swords at once, a multi-strike force barrage dealing 10d6 Force damage.</content>
+  <content contentuid="hf1a20000000000b0" version="1">Purple Thunder</content>
+  <content contentuid="hf1a20000000000b1" version="1">Strike with violet celestial thunder, dealing 10d8 Lightning damage.</content>
+  <content contentuid="hf1a20000000000b2" version="1">Endless Vitality</content>
+  <content contentuid="hf1a20000000000b3" version="1">Circulate endless vitality, mass-healing for 8d8 and granting regeneration.</content>
+  <content contentuid="hf1a20000000000b4" version="1">Scroll of Sword Qi Sweep</content>
+  <content contentuid="hf1a20000000000b5" version="1">A scroll inscribed with the Sword Qi Sweep rune. Reading it casts Sword Qi Sweep.</content>
+  <content contentuid="hf1a20000000000b6" version="1">Scroll of Vajra Guard</content>
+  <content contentuid="hf1a20000000000b7" version="1">A scroll inscribed with the Vajra Guard rune. Reading it casts Vajra Guard.</content>
+  <content contentuid="hf1a20000000000b8" version="1">Scroll of Flame Lotus</content>
+  <content contentuid="hf1a20000000000b9" version="1">A scroll inscribed with the Flame Lotus rune. Reading it casts Flame Lotus.</content>
+  <content contentuid="hf1a20000000000ba" version="1">Scroll of Sword Flight</content>
+  <content contentuid="hf1a20000000000bb" version="1">A scroll inscribed with the Sword Flight rune. Reading it casts Sword Flight.</content>
+  <content contentuid="hf1a20000000000bc" version="1">Scroll of Heaven Fire</content>
+  <content contentuid="hf1a20000000000bd" version="1">A scroll inscribed with the Heaven Fire rune. Reading it casts Heaven Fire.</content>
+  <content contentuid="hf1a20000000000be" version="1">Scroll of Frost Lock</content>
+  <content contentuid="hf1a20000000000bf" version="1">A scroll inscribed with the Frost Lock rune. Reading it casts Frost Lock.</content>
+  <content contentuid="hf1a20000000000c0" version="1">Scroll of Myriad Swords Launch</content>
+  <content contentuid="hf1a20000000000c1" version="1">A scroll inscribed with the Myriad Swords Launch rune. Reading it casts Myriad Swords Launch.</content>
+  <content contentuid="hf1a20000000000c2" version="1">Scroll of Purple Thunder</content>
+  <content contentuid="hf1a20000000000c3" version="1">A scroll inscribed with the Purple Thunder rune. Reading it casts Purple Thunder.</content>
+  <content contentuid="hf1a20000000000c4" version="1">Scroll of Endless Vitality</content>
+  <content contentuid="hf1a20000000000c5" version="1">A scroll inscribed with the Endless Vitality rune. Reading it casts Endless Vitality.</content>
+  <content contentuid="hf1a20000000000c6" version="1">Seal Rune: Sword Qi Sweep</content>
+  <content contentuid="hf1a20000000000c7" version="1">Crystallize Sword Qi Sweep into a scroll. Requires knowing Sword Qi Sweep.</content>
+  <content contentuid="hf1a20000000000c8" version="1">Seal Rune: Vajra Guard</content>
+  <content contentuid="hf1a20000000000c9" version="1">Crystallize Vajra Guard into a scroll. Requires knowing Vajra Guard.</content>
+  <content contentuid="hf1a20000000000ca" version="1">Seal Rune: Flame Lotus</content>
+  <content contentuid="hf1a20000000000cb" version="1">Crystallize Flame Lotus into a scroll. Requires knowing Flame Lotus.</content>
+  <content contentuid="hf1a20000000000cc" version="1">Seal Rune: Sword Flight</content>
+  <content contentuid="hf1a20000000000cd" version="1">Crystallize Sword Flight into a scroll. Requires knowing Sword Flight.</content>
+  <content contentuid="hf1a20000000000ce" version="1">Seal Rune: Heaven Fire</content>
+  <content contentuid="hf1a20000000000cf" version="1">Crystallize Heaven Fire into a scroll. Requires knowing Heaven Fire.</content>
+  <content contentuid="hf1a20000000000d0" version="1">Seal Rune: Frost Lock</content>
+  <content contentuid="hf1a20000000000d1" version="1">Crystallize Frost Lock into a scroll. Requires knowing Frost Lock.</content>
+  <content contentuid="hf1a20000000000d2" version="1">Seal Rune: Myriad Swords Launch</content>
+  <content contentuid="hf1a20000000000d3" version="1">Crystallize Myriad Swords Launch into a scroll. Requires knowing Myriad Swords Launch.</content>
+  <content contentuid="hf1a20000000000d4" version="1">Seal Rune: Purple Thunder</content>
+  <content contentuid="hf1a20000000000d5" version="1">Crystallize Purple Thunder into a scroll. Requires knowing Purple Thunder.</content>
+  <content contentuid="hf1a20000000000d6" version="1">Seal Rune: Endless Vitality</content>
+  <content contentuid="hf1a20000000000d7" version="1">Crystallize Endless Vitality into a scroll. Requires knowing Endless Vitality.</content>
+  <content contentuid="hf1a20000000000e0" version="1">TianGang North Star Formation</content>
+  <content contentuid="hf1a20000000000e1" version="1">Conjure a star formation, dealing 6d8 radiant damage to nearby enemies and slowing them.</content>
+  <content contentuid="hf1a20000000000e2" version="1">Nine Heavens Thunder</content>
+  <content contentuid="hf1a20000000000e3" version="1">Call thunder from nine heavens, dealing 12d8 lightning damage to target and nearby enemies.</content>
+  <content contentuid="hf1a20000000000e4" version="1">Qian Kun Shift</content>
+  <content contentuid="hf1a20000000000e5" version="1">Teleport to target location, dealing 8d8 force damage at destination.</content>
+  <content contentuid="hf1a20000000000e6" version="1">Tai Yi Divine Thunder</content>
+  <content contentuid="hf1a20000000000e7" version="1">Channel Tai Yi divine thunder on a single target for 12d6 lightning damage.</content>
+  <content contentuid="hf1a20000000000e8" version="1">Ten Thousand Swords Return</content>
+  <content contentuid="hf1a20000000000e9" version="1">Summon a storm of flying swords for 15d6 force damage.</content>
+  <content contentuid="hf1a20000000000ea" version="1">Primordial One Qi</content>
+  <content contentuid="hf1a20000000000eb" version="1">Release primordial qi, healing allies for 10d8 HP.</content>
+  <content contentuid="hf1a20000000000ec" version="1">Immortal-Slaying Sword Formation</content>
+  <content contentuid="hf1a20000000000ed" version="1">Unleash a devastating sword formation for 16d6 force damage in a large area.</content>
+  <content contentuid="hf1a20000000000ee" version="1">Ten Thousand Laws Return to One</content>
+  <content contentuid="hf1a20000000000ef" version="1">Ultimate annihilation, dealing 20d6 force damage to a single target.</content>
+  <content contentuid="hf1a20000000000f0" version="1">Seal Rune: TianGang North Star Formation</content>
+  <content contentuid="hf1a20000000000f1" version="1">Crystallize TianGang North Star Formation into a scroll. Requires knowing TianGang North Star Formation.</content>
+  <content contentuid="hf1a20000000000f2" version="1">Seal Rune: Nine Heavens Thunder</content>
+  <content contentuid="hf1a20000000000f3" version="1">Crystallize Nine Heavens Thunder into a scroll. Requires knowing Nine Heavens Thunder.</content>
+  <content contentuid="hf1a20000000000f4" version="1">Seal Rune: Qian Kun Shift</content>
+  <content contentuid="hf1a20000000000f5" version="1">Crystallize Qian Kun Shift into a scroll. Requires knowing Qian Kun Shift.</content>
+  <content contentuid="hf1a20000000000f6" version="1">Seal Rune: Tai Yi Divine Thunder</content>
+  <content contentuid="hf1a20000000000f7" version="1">Crystallize Tai Yi Divine Thunder into a scroll. Requires knowing Tai Yi Divine Thunder.</content>
+  <content contentuid="hf1a20000000000f8" version="1">Seal Rune: Ten Thousand Swords Return</content>
+  <content contentuid="hf1a20000000000f9" version="1">Crystallize Ten Thousand Swords Return into a scroll. Requires knowing Ten Thousand Swords Return.</content>
+  <content contentuid="hf1a20000000000fa" version="1">Seal Rune: Primordial One Qi</content>
+  <content contentuid="hf1a20000000000fb" version="1">Crystallize Primordial One Qi into a scroll. Requires knowing Primordial One Qi.</content>
+  <content contentuid="hf1a20000000000fc" version="1">Seal Rune: Immortal-Slaying Sword Formation</content>
+  <content contentuid="hf1a20000000000fd" version="1">Crystallize Immortal-Slaying Sword Formation into a scroll. Requires knowing Immortal-Slaying Sword Formation.</content>
+  <content contentuid="hf1a20000000000fe" version="1">Seal Rune: Ten Thousand Laws Return to One</content>
+  <content contentuid="hf1a20000000000ff" version="1">Crystallize Ten Thousand Laws Return to One into a scroll. Requires knowing Ten Thousand Laws Return to One.</content>
+  <content contentuid="hf1a2000000000100" version="1">Sword Intent Guard VI</content>
+  <content contentuid="hf1a2000000000101" version="1">While not wearing armor and not wielding a shield, your AC increases by 6.</content>
+  <content contentuid="hf1a2000000000102" version="1">Rune Sword Infusion III</content>
+  <content contentuid="hf1a2000000000103" version="1">While a Sword Path stance is active, your weapon attacks deal an additional 2d6 of the matching element.</content>
+  <content contentuid="hf1a2000000000104" version="1">Sword Heart Clarity</content>
+  <content contentuid="hf1a2000000000105" version="1">Critical hit range +1, weapon attacks deal an additional 1d6 force damage.</content>
+  <content contentuid="hf1a2000000000106" version="1">Sword God Descent</content>
+  <content contentuid="hf1a2000000000107" version="1">Peak of swordsmanship. +2 AC, +2d6 force damage on weapons, resistance to physical and force damage, increased movement speed.</content>
+  <content contentuid="hf1a2000000000108" version="1">Seal Rune (3/Long Rest)</content>
+  <content contentuid="hf1a2000000000109" version="1">Grants 3 Seal Rune charges, regained after a Long Rest.</content>
+  <content contentuid="hf1a200000000010a" version="1">Seal Rune (4/Long Rest)</content>
+  <content contentuid="hf1a200000000010b" version="1">Grants 4 Seal Rune charges, regained after a Long Rest.</content>
+  <content contentuid="hf1a200000000010c" version="1">Dao of Nature</content>
+  <content contentuid="hf1a200000000010d" version="1">Spellcasting mastery peak. Gain 2 additional 6th-level spell slots, +2 spellcasting ability.</content>
+  <content contentuid="hf1a200000000010e" version="1">Transcendent</content>
+  <content contentuid="hf1a200000000010f" version="1">Body and mind transcend mortality. +2 to all saving throws, resistance to non-magical bludgeoning/piercing/slashing damage.</content>
+  <content contentuid="hf1a2000000000120" version="1">Swift Step</content>
+  <content contentuid="hf1a2000000000121" version="1">Agile footwork increases movement speed by 3m.</content>
+  <content contentuid="hf1a2000000000122" version="1">Precognitive Reflex</content>
+  <content contentuid="hf1a2000000000123" version="1">Heightened awareness grants +2 initiative.</content>
+  <content contentuid="hf1a2000000000110" version="1">Scroll of TianGang North Star Formation</content>
+  <content contentuid="hf1a2000000000111" version="1">A scroll inscribed with the TianGang North Star Formation rune. Reading it casts TianGang North Star Formation.</content>
+  <content contentuid="hf1a2000000000112" version="1">Scroll of Nine Heavens Thunder</content>
+  <content contentuid="hf1a2000000000113" version="1">A scroll inscribed with the Nine Heavens Thunder rune. Reading it casts Nine Heavens Thunder.</content>
+  <content contentuid="hf1a2000000000114" version="1">Scroll of Qian Kun Shift</content>
+  <content contentuid="hf1a2000000000115" version="1">A scroll inscribed with the Qian Kun Shift rune. Reading it casts Qian Kun Shift.</content>
+  <content contentuid="hf1a2000000000116" version="1">Scroll of Tai Yi Divine Thunder</content>
+  <content contentuid="hf1a2000000000117" version="1">A scroll inscribed with the Tai Yi Divine Thunder rune. Reading it casts Tai Yi Divine Thunder.</content>
+  <content contentuid="hf1a2000000000118" version="1">Scroll of Ten Thousand Swords Return</content>
+  <content contentuid="hf1a2000000000119" version="1">A scroll inscribed with the Ten Thousand Swords Return rune. Reading it casts Ten Thousand Swords Return.</content>
+  <content contentuid="hf1a200000000011a" version="1">Scroll of Primordial One Qi</content>
+  <content contentuid="hf1a200000000011b" version="1">A scroll inscribed with the Primordial One Qi rune. Reading it casts Primordial One Qi.</content>
+  <content contentuid="hf1a200000000011c" version="1">Scroll of Immortal-Slaying Sword Formation</content>
+  <content contentuid="hf1a200000000011d" version="1">A scroll inscribed with the Immortal-Slaying Sword Formation rune. Reading it casts Immortal-Slaying Sword Formation.</content>
+  <content contentuid="hf1a200000000011e" version="1">Scroll of Ten Thousand Laws Return to One</content>
+  <content contentuid="hf1a200000000011f" version="1">A scroll inscribed with the Ten Thousand Laws Return to One rune. Reading it casts Ten Thousand Laws Return to One.</content>
+</contentList>

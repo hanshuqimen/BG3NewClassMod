@@ -1,0 +1,47 @@
+new entry FUIJIAN_FLAME_STANCE
+type Status_BOOST
+data StatusType BOOST
+data StackId "FUIJIAN_STANCE"
+data StackType Override
+data StackValue 1
+data RemoveOnRespec 1
+data DisplayName hf1a2000000000090
+data Description hf1a2000000000091
+data Icon Icon_Weapon_Enchant
+data Boosts "WeaponDamage(1d6,Fire)"
+
+new entry FUIJIAN_THUNDER_STANCE
+type Status_BOOST
+data StatusType BOOST
+data StackId "FUIJIAN_STANCE"
+data StackType Override
+data StackValue 1
+data RemoveOnRespec 1
+data DisplayName hf1a2000000000092
+data Description hf1a2000000000093
+data Icon Icon_Weapon_Enchant
+data Boosts "WeaponDamage(1d6,Thunder)"
+
+new entry FUIJIAN_FROST_STANCE
+type Status_BOOST
+data StatusType BOOST
+data StackId "FUIJIAN_STANCE"
+data StackType Override
+data StackValue 1
+data RemoveOnRespec 1
+data DisplayName hf1a2000000000094
+data Description hf1a2000000000095
+data Icon Icon_Weapon_Enchant
+data Boosts "WeaponDamage(1d6,Cold)"
+
+new entry FUIJIAN_ARCANE_STANCE
+type Status_BOOST
+data StatusType BOOST
+data StackId "FUIJIAN_STANCE"
+data StackType Override
+data StackValue 1
+data RemoveOnRespec 1
+data DisplayName hf1a2000000000096
+data Description hf1a2000000000097
+data Icon Icon_Weapon_Enchant
+data Boosts "WeaponDamage(1d6,Force)"

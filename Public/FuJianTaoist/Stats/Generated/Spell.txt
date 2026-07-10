@@ -1,0 +1,623 @@
+new entry FuJian_FlameStance
+using Longstrider
+type SpellData
+data DisplayName hf1a2000000000008
+data Description hf1a2000000000009
+data SpellSchool Transmutation
+data VerbalIntent Buff
+data Level 1
+data ActionType BonusAction
+data SpellType Self
+data SpellDuration -1
+data StatusEffects "FUIJIAN_FLAME_STANCE"
+
+new entry FuJian_ThunderStance
+using Longstrider
+type SpellData
+data DisplayName hf1a200000000000a
+data Description hf1a200000000000b
+data SpellSchool Transmutation
+data VerbalIntent Buff
+data Level 1
+data ActionType BonusAction
+data SpellType Self
+data SpellDuration -1
+data StatusEffects "FUIJIAN_THUNDER_STANCE"
+
+new entry FuJian_FrostStance
+using Longstrider
+type SpellData
+data DisplayName hf1a200000000000c
+data Description hf1a200000000000d
+data SpellSchool Transmutation
+data VerbalIntent Buff
+data Level 1
+data ActionType BonusAction
+data SpellType Self
+data SpellDuration -1
+data StatusEffects "FUIJIAN_FROST_STANCE"
+
+new entry FuJian_ArcaneStance
+using Longstrider
+type SpellData
+data DisplayName hf1a200000000000e
+data Description hf1a200000000000f
+data SpellSchool Transmutation
+data VerbalIntent Buff
+data Level 1
+data ActionType BonusAction
+data SpellType Self
+data SpellDuration -1
+data StatusEffects "FUIJIAN_ARCANE_STANCE"
+
+new entry Fu_Dao_FlyingSword
+using Eldritch_Blast
+type SpellData
+data DisplayName hf1a2000000000010
+data Description hf1a2000000000011
+data SpellSchool Evocation
+data VerbalIntent Attack
+data Level 1
+data Damage "1d10,Force"
+data DamageType Force
+
+new entry Fu_Dao_DispelMisfortune
+using Lesser_Restoration
+type SpellData
+data DisplayName hf1a2000000000012
+data Description hf1a2000000000013
+data SpellSchool Abjuration
+data VerbalIntent Buff
+data Level 1
+
+new entry Fu_Dao_MysticIce
+using Ice_Knife
+type SpellData
+data DisplayName hf1a2000000000014
+data Description hf1a2000000000015
+data SpellSchool Evocation
+data VerbalIntent Attack
+data Level 2
+data Damage "2d6,Cold"
+data DamageType Cold
+
+new entry Fu_Dao_SoulSeal
+using Hold_Person
+type SpellData
+data DisplayName hf1a2000000000016
+data Description hf1a2000000000017
+data SpellSchool Enchantment
+data VerbalIntent Debuff
+data Level 2
+
+new entry Fu_Dao_TalismanWard
+using Shield_of_Faith
+type SpellData
+data DisplayName hf1a2000000000018
+data Description hf1a2000000000019
+data SpellSchool Abjuration
+data VerbalIntent Buff
+data Level 2
+
+new entry Fu_Dao_ThunderSummons
+using Call_Lightning
+type SpellData
+data DisplayName hf1a200000000001a
+data Description hf1a200000000001b
+data SpellSchool Evocation
+data VerbalIntent Attack
+data Level 3
+data Damage "3d10,Lightning"
+data DamageType Lightning
+
+new entry Fu_Dao_SamadhiFire
+using Scorching_Ray
+type SpellData
+data DisplayName hf1a200000000001c
+data Description hf1a200000000001d
+data SpellSchool Evocation
+data VerbalIntent Attack
+data Level 3
+data Damage "6d6,Fire"
+data DamageType Fire
+
+new entry Fu_Dao_SwordQiSweep
+using Cone_of_Cold
+type SpellData
+data DisplayName hf1a20000000000a2
+data Description hf1a20000000000a3
+data SpellSchool Evocation
+data VerbalIntent Attack
+data Level 4
+data Damage "6d6,Force"
+data DamageType Force
+
+new entry Fu_Dao_VajraGuard
+using Stoneskin
+type SpellData
+data DisplayName hf1a20000000000a4
+data Description hf1a20000000000a5
+data SpellSchool Abjuration
+data VerbalIntent Buff
+data Level 4
+
+new entry Fu_Dao_FlameLotus
+using Fireball
+type SpellData
+data DisplayName hf1a20000000000a6
+data Description hf1a20000000000a7
+data SpellSchool Evocation
+data VerbalIntent Attack
+data Level 4
+data Damage "7d6,Fire"
+data DamageType Fire
+
+new entry Fu_Dao_SwordFlight
+using Misty_Step
+type SpellData
+data DisplayName hf1a20000000000a8
+data Description hf1a20000000000a9
+data SpellSchool Conjuration
+data VerbalIntent Attack
+data Level 5
+data Damage "5d8,Force"
+data DamageType Force
+data SpellType Target
+
+new entry Fu_Dao_HeavenFire
+using Wall_of_Fire
+type SpellData
+data DisplayName hf1a20000000000aa
+data Description hf1a20000000000ab
+data SpellSchool Evocation
+data VerbalIntent Attack
+data Level 5
+data Damage "8d6,Fire"
+data DamageType Fire
+
+new entry Fu_Dao_FrostLock
+using Ice_Storm
+type SpellData
+data DisplayName hf1a20000000000ac
+data Description hf1a20000000000ad
+data SpellSchool Evocation
+data VerbalIntent Debuff
+data Level 5
+data Damage "6d8,Cold"
+data DamageType Cold
+
+new entry Fu_Dao_MyriadSwordsLaunch
+using Disintegrate
+type SpellData
+data DisplayName hf1a20000000000ae
+data Description hf1a20000000000af
+data SpellSchool Evocation
+data VerbalIntent Attack
+data Level 6
+data Damage "10d6,Force"
+data DamageType Force
+
+new entry Fu_Dao_PurpleThunder
+using Chain_Lightning
+type SpellData
+data DisplayName hf1a20000000000b0
+data Description hf1a20000000000b1
+data SpellSchool Evocation
+data VerbalIntent Attack
+data Level 6
+data Damage "10d8,Lightning"
+data DamageType Lightning
+
+new entry Fu_Dao_EndlessVitality
+using Heal
+type SpellData
+data DisplayName hf1a20000000000b2
+data Description hf1a20000000000b3
+data Level 6
+
+new entry Fu_Dao_TianGangFormation
+using Spirit_Guardians
+type SpellData
+data DisplayName hf1a20000000000e0
+data Description hf1a20000000000e1
+data SpellSchool Evocation
+data VerbalIntent Buff
+data Level 6
+data Damage "6d8,Radiant"
+data DamageType Radiant
+
+new entry Fu_Dao_JiuTianXuanLei
+using Chain_Lightning
+type SpellData
+data DisplayName hf1a20000000000e2
+data Description hf1a20000000000e3
+data SpellSchool Evocation
+data VerbalIntent Attack
+data Level 6
+data Damage "12d8,Lightning"
+data DamageType Lightning
+
+new entry Fu_Dao_QianKunShift
+using Dimension_Door
+type SpellData
+data DisplayName hf1a20000000000e4
+data Description hf1a20000000000e5
+data SpellSchool Conjuration
+data VerbalIntent Attack
+data Level 6
+data Damage "8d8,Force"
+data DamageType Force
+
+new entry Fu_Dao_TaiYiThunder
+using Disintegrate
+type SpellData
+data DisplayName hf1a20000000000e6
+data Description hf1a20000000000e7
+data SpellSchool Evocation
+data VerbalIntent Attack
+data Level 6
+data Damage "12d6,Lightning"
+data DamageType Lightning
+
+new entry Fu_Dao_WanJianGuiZong
+using Magic_Missile
+type SpellData
+data DisplayName hf1a20000000000e8
+data Description hf1a20000000000e9
+data SpellSchool Evocation
+data VerbalIntent Attack
+data Level 6
+data Damage "15d6,Force"
+data DamageType Force
+
+new entry Fu_Dao_HunYuanYiQi
+using Heal
+type SpellData
+data DisplayName hf1a20000000000ea
+data Description hf1a20000000000eb
+data Level 6
+
+new entry Fu_Dao_ZhuXianSwordFormation
+using Cone_of_Cold
+type SpellData
+data DisplayName hf1a20000000000ec
+data Description hf1a20000000000ed
+data SpellSchool Evocation
+data VerbalIntent Attack
+data Level 6
+data Damage "16d6,Force"
+data DamageType Force
+
+new entry Fu_Dao_WanFaGuiYi
+using Disintegrate
+type SpellData
+data DisplayName hf1a20000000000ee
+data Description hf1a20000000000ef
+data SpellSchool Evocation
+data VerbalIntent Attack
+data Level 6
+data Damage "20d6,Force"
+data DamageType Force
+
+new entry Fu_Dao_SealRune_Cast
+using Shillelagh
+type SpellData
+data DisplayName hf1a2000000000030
+data Description hf1a2000000000031
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+
+new entry Fu_Dao_SealRune_FlyingSword
+using Shillelagh
+type SpellData
+data DisplayName hf1a2000000000032
+data Description hf1a2000000000033
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_FlyingSword)"
+
+new entry Fu_Dao_SealRune_DispelMisfortune
+using Shillelagh
+type SpellData
+data DisplayName hf1a2000000000034
+data Description hf1a2000000000035
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_DispelMisfortune)"
+
+new entry Fu_Dao_SealRune_MysticIce
+using Shillelagh
+type SpellData
+data DisplayName hf1a2000000000036
+data Description hf1a2000000000037
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_MysticIce)"
+
+new entry Fu_Dao_SealRune_SoulSeal
+using Shillelagh
+type SpellData
+data DisplayName hf1a2000000000038
+data Description hf1a2000000000039
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_SoulSeal)"
+
+new entry Fu_Dao_SealRune_TalismanWard
+using Shillelagh
+type SpellData
+data DisplayName hf1a200000000003a
+data Description hf1a200000000003b
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_TalismanWard)"
+
+new entry Fu_Dao_SealRune_ThunderSummons
+using Shillelagh
+type SpellData
+data DisplayName hf1a200000000003c
+data Description hf1a200000000003d
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_ThunderSummons)"
+
+new entry Fu_Dao_SealRune_SamadhiFire
+using Shillelagh
+type SpellData
+data DisplayName hf1a200000000003e
+data Description hf1a200000000003f
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_SamadhiFire)"
+
+new entry Fu_Dao_SealRune_SwordQiSweep
+using Shillelagh
+type SpellData
+data DisplayName hf1a20000000000c6
+data Description hf1a20000000000c7
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_SwordQiSweep)"
+
+new entry Fu_Dao_SealRune_VajraGuard
+using Shillelagh
+type SpellData
+data DisplayName hf1a20000000000c8
+data Description hf1a20000000000c9
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_VajraGuard)"
+
+new entry Fu_Dao_SealRune_FlameLotus
+using Shillelagh
+type SpellData
+data DisplayName hf1a20000000000ca
+data Description hf1a20000000000cb
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_FlameLotus)"
+
+new entry Fu_Dao_SealRune_SwordFlight
+using Shillelagh
+type SpellData
+data DisplayName hf1a20000000000cc
+data Description hf1a20000000000cd
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_SwordFlight)"
+
+new entry Fu_Dao_SealRune_HeavenFire
+using Shillelagh
+type SpellData
+data DisplayName hf1a20000000000ce
+data Description hf1a20000000000cf
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_HeavenFire)"
+
+new entry Fu_Dao_SealRune_FrostLock
+using Shillelagh
+type SpellData
+data DisplayName hf1a20000000000d0
+data Description hf1a20000000000d1
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_FrostLock)"
+
+new entry Fu_Dao_SealRune_MyriadSwordsLaunch
+using Shillelagh
+type SpellData
+data DisplayName hf1a20000000000d2
+data Description hf1a20000000000d3
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_MyriadSwordsLaunch)"
+
+new entry Fu_Dao_SealRune_PurpleThunder
+using Shillelagh
+type SpellData
+data DisplayName hf1a20000000000d4
+data Description hf1a20000000000d5
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_PurpleThunder)"
+
+new entry Fu_Dao_SealRune_EndlessVitality
+using Shillelagh
+type SpellData
+data DisplayName hf1a20000000000d6
+data Description hf1a20000000000d7
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_EndlessVitality)"
+
+new entry Fu_Dao_SealRune_TianGangFormation
+using Shillelagh
+type SpellData
+data DisplayName hf1a20000000000f0
+data Description hf1a20000000000f1
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_TianGangFormation)"
+
+new entry Fu_Dao_SealRune_JiuTianXuanLei
+using Shillelagh
+type SpellData
+data DisplayName hf1a20000000000f2
+data Description hf1a20000000000f3
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_JiuTianXuanLei)"
+
+new entry Fu_Dao_SealRune_QianKunShift
+using Shillelagh
+type SpellData
+data DisplayName hf1a20000000000f4
+data Description hf1a20000000000f5
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_QianKunShift)"
+
+new entry Fu_Dao_SealRune_TaiYiThunder
+using Shillelagh
+type SpellData
+data DisplayName hf1a20000000000f6
+data Description hf1a20000000000f7
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_TaiYiThunder)"
+
+new entry Fu_Dao_SealRune_WanJianGuiZong
+using Shillelagh
+type SpellData
+data DisplayName hf1a20000000000f8
+data Description hf1a20000000000f9
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_WanJianGuiZong)"
+
+new entry Fu_Dao_SealRune_HunYuanYiQi
+using Shillelagh
+type SpellData
+data DisplayName hf1a20000000000fa
+data Description hf1a20000000000fb
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_HunYuanYiQi)"
+
+new entry Fu_Dao_SealRune_ZhuXianSwordFormation
+using Shillelagh
+type SpellData
+data DisplayName hf1a20000000000fc
+data Description hf1a20000000000fd
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_ZhuXianSwordFormation)"
+
+new entry Fu_Dao_SealRune_WanFaGuiYi
+using Shillelagh
+type SpellData
+data DisplayName hf1a20000000000fe
+data Description hf1a20000000000ff
+data SpellSchool Transmutation
+data VerbalIntent Summon
+data Level 0
+data ActionType Action
+data SpellType Self
+data UseCosts "ActionResource(FuDaoSealRuneCast,1,0)"
+data Requirements "HasSpell(Fu_Dao_WanFaGuiYi)"

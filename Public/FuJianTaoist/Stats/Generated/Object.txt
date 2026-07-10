@@ -1,0 +1,167 @@
+new entry Scroll_Fu_Dao_FlyingSword
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_FlyingSword"
+data DisplayName hf1a2000000000070
+data Description hf1a2000000000071
+
+new entry Scroll_Fu_Dao_DispelMisfortune
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_DispelMisfortune"
+data DisplayName hf1a2000000000072
+data Description hf1a2000000000073
+
+new entry Scroll_Fu_Dao_MysticIce
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_MysticIce"
+data DisplayName hf1a2000000000074
+data Description hf1a2000000000075
+
+new entry Scroll_Fu_Dao_SoulSeal
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_SoulSeal"
+data DisplayName hf1a2000000000076
+data Description hf1a2000000000077
+
+new entry Scroll_Fu_Dao_TalismanWard
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_TalismanWard"
+data DisplayName hf1a2000000000078
+data Description hf1a2000000000079
+
+new entry Scroll_Fu_Dao_ThunderSummons
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_ThunderSummons"
+data DisplayName hf1a200000000007a
+data Description hf1a200000000007b
+
+new entry Scroll_Fu_Dao_SamadhiFire
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_SamadhiFire"
+data DisplayName hf1a200000000007c
+data Description hf1a200000000007d
+
+new entry Scroll_Fu_Dao_SwordQiSweep
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_SwordQiSweep"
+data DisplayName hf1a20000000000b4
+data Description hf1a20000000000b5
+
+new entry Scroll_Fu_Dao_VajraGuard
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_VajraGuard"
+data DisplayName hf1a20000000000b6
+data Description hf1a20000000000b7
+
+new entry Scroll_Fu_Dao_FlameLotus
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_FlameLotus"
+data DisplayName hf1a20000000000b8
+data Description hf1a20000000000b9
+
+new entry Scroll_Fu_Dao_SwordFlight
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_SwordFlight"
+data DisplayName hf1a20000000000ba
+data Description hf1a20000000000bb
+
+new entry Scroll_Fu_Dao_HeavenFire
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_HeavenFire"
+data DisplayName hf1a20000000000bc
+data Description hf1a20000000000bd
+
+new entry Scroll_Fu_Dao_FrostLock
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_FrostLock"
+data DisplayName hf1a20000000000be
+data Description hf1a20000000000bf
+
+new entry Scroll_Fu_Dao_MyriadSwordsLaunch
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_MyriadSwordsLaunch"
+data DisplayName hf1a20000000000c0
+data Description hf1a20000000000c1
+
+new entry Scroll_Fu_Dao_PurpleThunder
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_PurpleThunder"
+data DisplayName hf1a20000000000c2
+data Description hf1a20000000000c3
+
+new entry Scroll_Fu_Dao_EndlessVitality
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_EndlessVitality"
+data DisplayName hf1a20000000000c4
+data Description hf1a20000000000c5
+
+new entry Scroll_Fu_Dao_TianGangFormation
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_TianGangFormation"
+data DisplayName hf1a2000000000110
+data Description hf1a2000000000111
+
+new entry Scroll_Fu_Dao_JiuTianXuanLei
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_JiuTianXuanLei"
+data DisplayName hf1a2000000000112
+data Description hf1a2000000000113
+
+new entry Scroll_Fu_Dao_QianKunShift
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_QianKunShift"
+data DisplayName hf1a2000000000114
+data Description hf1a2000000000115
+
+new entry Scroll_Fu_Dao_TaiYiThunder
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_TaiYiThunder"
+data DisplayName hf1a2000000000116
+data Description hf1a2000000000117
+
+new entry Scroll_Fu_Dao_WanJianGuiZong
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_WanJianGuiZong"
+data DisplayName hf1a2000000000118
+data Description hf1a2000000000119
+
+new entry Scroll_Fu_Dao_HunYuanYiQi
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_HunYuanYiQi"
+data DisplayName hf1a200000000011a
+data Description hf1a200000000011b
+
+new entry Scroll_Fu_Dao_ZhuXianSwordFormation
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_ZhuXianSwordFormation"
+data DisplayName hf1a200000000011c
+data Description hf1a200000000011d
+
+new entry Scroll_Fu_Dao_WanFaGuiYi
+using Scroll_of_Fireball
+type Object
+data Spell "Fu_Dao_WanFaGuiYi"
+data DisplayName hf1a200000000011e
+data Description hf1a200000000011f
