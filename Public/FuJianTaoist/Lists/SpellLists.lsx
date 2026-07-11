@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<save>
+  <version major="4" minor="3" revision="0" build="333" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="FuJian Taoist cantrips" />
+          <attribute id="Spells" type="LSString" value="Projectile_FireBolt;Projectile_RayOfFrost;Target_ShockingGrasp;Target_MageHand;Target_Light" />
+          <attribute id="UUID" type="guid" value="201bbbc2-a525-5a5c-9fce-d6d0920be403" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="FuJian Taoist spells" />
+          <attribute id="Spells" type="LSString" value="Projectile_MagicMissile;Zone_BurningHands;Shout_Shield_Wizard;Target_MageArmor;Projectile_ChromaticOrb;Target_Sleep;Target_MistyStep;Projectile_ScorchingRay;Target_HoldPerson;Target_Invisibility;Target_Web;Projectile_Fireball;Zone_LightningBolt;Target_Counterspell;Target_Fly;Target_Haste;Target_Blight;Teleportation_DimensionDoor;Target_IceStorm;Zone_ConeOfCold;Target_HoldMonster;Projectile_ChainLightning;Projectile_Disintegrate;Target_GlobeOfInvulnerability;Fu_Dao_FlyingSword;Fu_Dao_DispelMisfortune;Fu_Dao_MysticIce;Fu_Dao_SoulSeal;Fu_Dao_TalismanWard;Fu_Dao_ThunderSummons;Fu_Dao_SamadhiFire;Fu_Dao_SwordQiSweep;Fu_Dao_VajraGuard;Fu_Dao_FlameLotus;Fu_Dao_SwordFlight;Fu_Dao_HeavenFire;Fu_Dao_FrostLock;Fu_Dao_MyriadSwordsLaunch;Fu_Dao_PurpleThunder;Fu_Dao_EndlessVitality;Fu_Dao_TianGangFormation;Fu_Dao_JiuTianXuanLei;Fu_Dao_QianKunShift;Fu_Dao_TaiYiThunder;Fu_Dao_WanJianGuiZong;Fu_Dao_HunYuanYiQi;Fu_Dao_ZhuXianSwordFormation;Fu_Dao_TianDaoLunHui;Fu_Dao_WanFaGuiYi;Fu_Dao_FiveElementsRuin;Fu_Dao_TaijiHeavenMirror;Fu_Dao_WanXiangThunderTribulation;Fu_Dao_VoidGodslayerSword" />
+          <attribute id="UUID" type="guid" value="f0bc3193-6477-5760-abfc-d519c1798fe8" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

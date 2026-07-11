@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save><version major="4" minor="3" revision="0" build="333"/><region id="DefaultValues"><node id="root"><children><node id="DefaultValue"><attribute id="Add" type="LSString" value="Athletics;Arcana"/><attribute id="Level" type="int32" value="1"/><attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001"/><attribute id="UUID" type="guid" value="83106d91-ea2c-5851-8591-ee28407faaa4"/></node></children></node></region></save>

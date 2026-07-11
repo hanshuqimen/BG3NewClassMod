@@ -1,95 +1,146 @@
-new entry TT_FuDao_Scroll_FlyingSword
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_FlyingSword,1,1,0,0,0"
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
 
-new entry TT_FuDao_Scroll_DispelMisfortune
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_DispelMisfortune,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_FlyingSword"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_FlyingSword",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_MysticIce
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_MysticIce,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_DispelMisfortune"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_DispelMisfortune",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_SoulSeal
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_SoulSeal,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_MysticIce"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_MysticIce",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_TalismanWard
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_TalismanWard,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_SoulSeal"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_SoulSeal",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_ThunderSummons
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_ThunderSummons,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_TalismanWard"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_TalismanWard",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_SamadhiFire
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_SamadhiFire,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_ThunderSummons"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_ThunderSummons",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_SwordQiSweep
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_SwordQiSweep,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_SamadhiFire"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_SamadhiFire",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_VajraGuard
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_VajraGuard,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_SwordQiSweep"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_SwordQiSweep",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_FlameLotus
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_FlameLotus,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_VajraGuard"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_VajraGuard",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_SwordFlight
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_SwordFlight,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_FlameLotus"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_FlameLotus",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_HeavenFire
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_HeavenFire,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_SwordFlight"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_SwordFlight",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_FrostLock
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_FrostLock,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_HeavenFire"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_HeavenFire",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_MyriadSwordsLaunch
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_MyriadSwordsLaunch,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_FrostLock"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_FrostLock",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_PurpleThunder
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_PurpleThunder,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_MyriadSwordsLaunch"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_MyriadSwordsLaunch",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_EndlessVitality
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_EndlessVitality,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_PurpleThunder"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_PurpleThunder",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_TianGangFormation
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_TianGangFormation,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_EndlessVitality"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_EndlessVitality",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_JiuTianXuanLei
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_JiuTianXuanLei,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_TianGangFormation"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_TianGangFormation",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_QianKunShift
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_QianKunShift,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_JiuTianXuanLei"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_JiuTianXuanLei",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_TaiYiThunder
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_TaiYiThunder,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_QianKunShift"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_QianKunShift",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_WanJianGuiZong
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_WanJianGuiZong,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_TaiYiThunder"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_TaiYiThunder",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_HunYuanYiQi
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_HunYuanYiQi,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_WanJianGuiZong"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_WanJianGuiZong",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_ZhuXianSwordFormation
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_ZhuXianSwordFormation,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_HunYuanYiQi"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_HunYuanYiQi",1,0,0,0,0,0,0,0
 
-new entry TT_FuDao_Scroll_WanFaGuiYi
-type TreasureTable
-data SubTable1 "1,1,Scroll_Fu_Dao_WanFaGuiYi,1,1,0,0,0"
+new treasuretable "TT_FuDao_Scroll_ZhuXianSwordFormation"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_ZhuXianSwordFormation",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_FuDao_Scroll_TianDaoLunHui"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_TianDaoLunHui",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_FuDao_Scroll_WanFaGuiYi"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_WanFaGuiYi",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_FuDao_Scroll_FiveElementsRuin"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_FiveElementsRuin",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_FuDao_Scroll_TaijiHeavenMirror"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_TaijiHeavenMirror",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_FuDao_Scroll_WanXiangThunderTribulation"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_WanXiangThunderTribulation",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_FuDao_Scroll_VoidGodslayerSword"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Fu_Dao_VoidGodslayerSword",1,0,0,0,0,0,0,0

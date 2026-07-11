@@ -1,5 +1,0 @@
-new entry FuDaoSealRuneCast
-type ActionResource
-data MaxLevel 0
-data ShortRest 0
-data LongRest 1
