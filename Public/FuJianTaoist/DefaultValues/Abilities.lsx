@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save><version major="4" minor="3" revision="0" build="333"/><region id="DefaultValues"><node id="root"><children><node id="DefaultValue"><attribute id="Add" type="LSString" value="Strength;Intelligence"/><attribute id="Level" type="int32" value="1"/><attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001"/><attribute id="UUID" type="guid" value="2806499a-87c1-5180-9077-73a17721db04"/></node></children></node></region></save>
