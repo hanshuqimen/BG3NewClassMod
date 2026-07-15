@@ -1,0 +1,524 @@
+<?xml version='1.0' encoding='utf-8'?>
+<save>
+  <version major="4" minor="3" revision="0" build="333" />
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Intelligence);Proficiency(SimpleWeapons);Proficiency(Longswords);Proficiency(Shortswords);Proficiency(Greatswords);Proficiency(Scimitars);Proficiency(Handaxes);Proficiency(LightCrossbows);ActionResource(SpellSlot,2,1)" />
+          <attribute id="Level" type="uint8" value="1" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSkills(fbf9cd6b-58aa-535b-a7c0-4cddbdf788d4,2);SelectAbilityBonus(9677a61b-e38f-5dbb-a6a3-0653bd84a798,AbilityBonus,2,1);SelectSpells(201bbbc2-a525-5a5c-9fce-d6d0920be403,3,0,,,,AlwaysPrepared);SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,2,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-000000000001" />
+          <children>
+            <node id="SubClasses">
+              <children>
+                <node id="SubClass">
+                  <attribute id="Object" type="guid" value="f1a2b3c4-d5e6-0002-0000-000000000001" />
+                </node>
+                <node id="SubClass">
+                  <attribute id="Object" type="guid" value="f1a2b3c4-d5e6-0002-0000-000000000002" />
+                </node>
+              </children>
+            </node>
+          </children>
+        </node>
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1)" />
+          <attribute id="Level" type="uint8" value="2" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-000000000002" />
+        </node>
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2)" />
+          <attribute id="Level" type="uint8" value="3" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel2" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-000000000003" />
+        </node>
+        <node id="Progression">
+          <attribute id="AllowImprovement" type="bool" value="true" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2)" />
+          <attribute id="Level" type="uint8" value="4" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-000000000004" />
+        </node>
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3)" />
+          <attribute id="Level" type="uint8" value="5" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel3" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-000000000005" />
+        </node>
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3)" />
+          <attribute id="Level" type="uint8" value="6" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-000000000006" />
+        </node>
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4)" />
+          <attribute id="Level" type="uint8" value="7" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-000000000007" />
+        </node>
+        <node id="Progression">
+          <attribute id="AllowImprovement" type="bool" value="true" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4)" />
+          <attribute id="Level" type="uint8" value="8" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-000000000008" />
+        </node>
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSlot,1,5)" />
+          <attribute id="Level" type="uint8" value="9" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-000000000009" />
+        </node>
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5)" />
+          <attribute id="Level" type="uint8" value="10" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-00000000000a" />
+        </node>
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,6)" />
+          <attribute id="Level" type="uint8" value="11" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-00000000000b" />
+        </node>
+        <node id="Progression">
+          <attribute id="AllowImprovement" type="bool" value="true" />
+          <attribute id="Level" type="uint8" value="12" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-00000000000c" />
+        </node>
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7)" />
+          <attribute id="Level" type="uint8" value="13" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-00000000000d" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="14" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-00000000000e" />
+        </node>
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,8)" />
+          <attribute id="Level" type="uint8" value="15" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-00000000000f" />
+        </node>
+        <node id="Progression">
+          <attribute id="AllowImprovement" type="bool" value="true" />
+          <attribute id="Level" type="uint8" value="16" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-000000000010" />
+        </node>
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,9)" />
+          <attribute id="Level" type="uint8" value="17" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-000000000011" />
+        </node>
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5)" />
+          <attribute id="Level" type="uint8" value="18" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-000000000012" />
+        </node>
+        <node id="Progression">
+          <attribute id="AllowImprovement" type="bool" value="true" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,6)" />
+          <attribute id="Level" type="uint8" value="19" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-000000000013" />
+        </node>
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7)" />
+          <attribute id="Level" type="uint8" value="20" />
+          <attribute id="Name" type="LSString" value="Taoist_FuJian" />
+          <attribute id="ProgressionType" type="uint8" value="0" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0000-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0000-000000000014" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="1" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="PassivesAdded" type="LSString" value="FuJian_Stances;FuJian_SwordIntentGuard_1;FuJian_StanceDamage_T1" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-000000000001" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="2" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-000000000002" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="3" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-000000000003" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="4" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="PassivesAdded" type="LSString" value="FuJian_SwordIntentGuard_2" />
+          <attribute id="PassivesRemoved" type="LSString" value="FuJian_SwordIntentGuard_1" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-000000000004" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="5" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="PassivesAdded" type="LSString" value="FuJian_StanceDamage_T2;ExtraAttack;FuJian_SwordBurstUnlock" />
+          <attribute id="PassivesRemoved" type="LSString" value="FuJian_StanceDamage_T1" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-000000000005" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="6" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-000000000006" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="7" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-000000000007" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="8" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="PassivesAdded" type="LSString" value="FuJian_SwordIntentGuard_3" />
+          <attribute id="PassivesRemoved" type="LSString" value="FuJian_SwordIntentGuard_2" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-000000000008" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="9" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="PassivesAdded" type="LSString" value="FuJian_StanceDamage_T3;FuJian_SwordDomainUnlock" />
+          <attribute id="PassivesRemoved" type="LSString" value="FuJian_StanceDamage_T2" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-000000000009" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="10" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-00000000000a" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="11" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="PassivesAdded" type="LSString" value="ExtraAttack_2" />
+          <attribute id="PassivesRemoved" type="LSString" value="ExtraAttack" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-00000000000b" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="12" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="PassivesAdded" type="LSString" value="FuJian_SwordIntentGuard_4;FuJian_StanceDamage_T4" />
+          <attribute id="PassivesRemoved" type="LSString" value="FuJian_SwordIntentGuard_3;FuJian_StanceDamage_T3" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-00000000000c" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="13" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-00000000000d" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="14" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="PassivesAdded" type="LSString" value="FuJian_SwiftStep" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-00000000000e" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="15" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-00000000000f" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="16" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="PassivesAdded" type="LSString" value="FuJian_SwordIntentGuard_5;FuJian_PrecognitiveReflex" />
+          <attribute id="PassivesRemoved" type="LSString" value="FuJian_SwordIntentGuard_4" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-000000000010" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="17" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="PassivesAdded" type="LSString" value="FuJian_SwordMastery" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-000000000011" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="18" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-000000000012" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="19" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-000000000013" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="20" />
+          <attribute id="Name" type="LSString" value="Taoist_SwordPath" />
+          <attribute id="PassivesAdded" type="LSString" value="FuJian_SwordIntentGuard_6;FuJian_StanceDamage_T5;FuJian_ExtraAttack_3;FuJian_SwordGodDescent" />
+          <attribute id="PassivesRemoved" type="LSString" value="FuJian_SwordIntentGuard_5;FuJian_StanceDamage_T4;ExtraAttack_2" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000001" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0001-000000000014" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="1" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="PassivesAdded" type="LSString" value="Fu_Dao_SealRune;Fu_Dao_SealRune_Uses1" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-000000000001" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="2" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-000000000002" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="3" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-000000000003" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="4" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-000000000004" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="5" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-000000000005" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="6" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="PassivesAdded" type="LSString" value="Fu_Dao_SealRune_Uses2" />
+          <attribute id="PassivesRemoved" type="LSString" value="Fu_Dao_SealRune_Uses1" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-000000000006" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="7" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-000000000007" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="8" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-000000000008" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="9" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-000000000009" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="10" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-00000000000a" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="11" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-00000000000b" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="12" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-00000000000c" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="13" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-00000000000d" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="14" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-00000000000e" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="15" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="PassivesAdded" type="LSString" value="Fu_Dao_SealRune_Uses3" />
+          <attribute id="PassivesRemoved" type="LSString" value="Fu_Dao_SealRune_Uses2" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-00000000000f" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="16" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-000000000010" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="17" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="PassivesAdded" type="LSString" value="Fu_Dao_SealRune_Uses4" />
+          <attribute id="PassivesRemoved" type="LSString" value="Fu_Dao_SealRune_Uses3" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-000000000011" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="18" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-000000000012" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="19" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f0bc3193-6477-5760-abfc-d519c1798fe8,1,0)" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-000000000013" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="20" />
+          <attribute id="Name" type="LSString" value="Taoist_RunePath" />
+          <attribute id="PassivesAdded" type="LSString" value="Fu_Dao_DaoFaZiRan" />
+          <attribute id="ProgressionType" type="uint8" value="1" />
+          <attribute id="TableUUID" type="guid" value="f1a2b3c4-d5e6-0001-0001-000000000002" />
+          <attribute id="UUID" type="guid" value="f1a2b3c4-d5e6-0004-0002-000000000014" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
